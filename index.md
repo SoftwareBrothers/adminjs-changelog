@@ -1,4 +1,8 @@
-# List of AdminJS Changelogs
+<div>
+   <img alt="AdminJS changelogs" src="https://docs.adminjs.co/images/logo-reg.svg">
+</div>
+
+# List of changelogs
 
 Welcome to a compilation of our monthly recaps of the hottent updates and fixes.
 
