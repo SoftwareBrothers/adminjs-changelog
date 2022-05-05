@@ -25,10 +25,10 @@ Hey everyone and welcome to our monthly recap of what has changed in AdminJS in 
 - Added a new input component: [CurrencyInput](https://github.com/SoftwareBrothers/adminjs-design-system/pull/35);
 - Carbon Icons updated to the latest version;
 - Fixed a bug when a tooltip position was always relative to the initial position on the screen which caused its misplacenebt while scrolling;
-- Updated record actions buttons `(DropDownItemWithButtons, SingleButtonInGroup)` to show a spinner ("Fade" icon) when you press the button. It should help to display that an action is in progress when you use a non-instant action that has no action component in AdminJS.
+- Updated record actions buttons `(DropDownItemWithButtons, SingleButtonInGroup)` to show a spinner ('Fade' icon) when you press the button. It should help to display that an action is in progress when you use a non-instant action that has no action component in AdminJS.
 
 ## @adminjs/import-export – v1.3.2
-- Cleaned up the build, the Example App is now excluded from the library after its built, and pathing is correct again;
+- Cleaned up the build, the Example App is now excluded from the library after it's built, and pathing is correct again;
 - Added a default `sortBy` param which is used when fetching records. The results are now always sorted by either primary key or title property. The cause of this change is that some adapters, eg @adminjs/typeorm required `sortBy` to be present.
 
 ## @adminjs/passwords – v2.0.2
