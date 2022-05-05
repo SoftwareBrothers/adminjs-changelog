@@ -1,7 +1,3 @@
-<div align="center">
-  <img alt="AdminJS Changelog - April 2022" src="https://adminjs.co/img/a.svg">
-</div>
-
 # AdminJS Changelog – April 2022
 
 Hey everyone and welcome to our monthly recap of what has changed in AdminJS in April 2022.
