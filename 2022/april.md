@@ -42,3 +42,7 @@ Hey everyone and welcome to our monthly recap of what has changed in AdminJS in 
 
 ## @adminjs/koa – v2.1.0
 - You can now specify `Session Options` when creating an authenticated router.
+
+___
+
+:incoming_envelope: [Subscribe to our newsletter](http://newsletter.adminjs.co/) if you don't want to miss the newest changelogs!
