@@ -4,7 +4,7 @@ Hey everyone, and welcome to our monthly recap of what has changed in AdminJS in
 
 ## adminjs
 - fixed issues in bulk action type;
-- added an option in `AdminJSOption`s to set a default 'perPage' setting;
+- added an option in `AdminJSOptions` to set a default 'perPage' setting;
 - fixed an issue where an empty record was being returned on error.
 
 ## @adminjs/mongoose
